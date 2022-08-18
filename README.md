@@ -1,7 +1,5 @@
 # html-css
  Curso de HTML5 e CSS3 do Curso em Video
-
-<a href="https://joseguilhermeds.github.io/html-css/exercicios/ex001/">
  
  <a href="https://joseguilhermeds.github.io/html-css/exercicios/ex001/">Executar execício 001</a>
 <a href="https://joseguilhermeds.github.io/html-css/exercicios/ex002/">Executar execício 002</a>
